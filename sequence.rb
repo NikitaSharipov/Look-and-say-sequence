@@ -18,7 +18,6 @@ class Sequence
     new_member = []
 
     current_step = 0
-    repetitions = 1
 
     while current_step != digits_array.length
       repetitions = 1
